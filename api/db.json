@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "memes",
+      "description": "are foos",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "other  oberwatch",
+      "id": 2
+    },
+    {
+      "title": "name",
+      "description": "this is a changed descrition",
+      "id": 7
+    },
+    {
+      "title": "oka",
+      "description": "is this better",
+      "userId": "111406710970330893711",
+      "id": 8
+    }
+  ]
+}
